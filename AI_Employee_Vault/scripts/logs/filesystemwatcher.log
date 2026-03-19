@@ -1,0 +1,4 @@
+2026-03-17 22:25:42,776 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 22:25:42,778 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\scripts\Drop
+2026-03-17 22:25:42,786 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\scripts\Drop
+2026-03-17 22:28:39,888 - FileSystemWatcher - INFO - Watcher stopped by user

@@ -1,0 +1,41 @@
+2026-03-17 17:29:01,444 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 17:29:01,445 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 17:29:01,453 - FileSystemWatcher - INFO - Copied file to Inbox: test_document.txt
+2026-03-17 17:29:01,456 - FileSystemWatcher - INFO - Processed file: test_document.txt -> FILE_de1d6a0ed902_20260317_172901.md
+2026-03-17 17:43:39,208 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 17:43:39,209 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 17:43:39,220 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 17:47:18,334 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 17:47:18,335 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 17:47:18,338 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 17:50:25,444 - FileSystemWatcher - INFO - Watcher stopped by user
+2026-03-17 22:28:42,421 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 22:28:42,423 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 22:28:42,427 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 22:29:27,751 - FileSystemWatcher - INFO - New file detected: test.md
+2026-03-17 22:29:27,756 - FileSystemWatcher - INFO - Copied file to Inbox: test.md
+2026-03-17 22:29:27,760 - FileSystemWatcher - INFO - Processed file: test.md -> FILE_5d41402abc4b_20260317_222927.md
+2026-03-17 22:52:18,192 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 22:52:18,193 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 22:52:18,198 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 22:56:22,407 - FileSystemWatcher - INFO - New file detected: test.md
+2026-03-17 23:00:17,651 - FileSystemWatcher - ERROR - Error processing file D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop\test.md: [Errno 2] No such file or directory: 'D:\\users\\OneDrive\\Documents\\GitHub\\Personal-AI-Employee-FTEs\\AI_Employee_Vault\\Drop\\test.md'
+2026-03-17 23:01:01,434 - FileSystemWatcher - INFO - Watcher stopped by user
+2026-03-17 23:01:06,546 - FileSystemWatcher - INFO - Initialized FileSystemWatcher
+2026-03-17 23:01:06,547 - FileSystemWatcher - INFO - Monitoring drop folder: D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 23:01:06,554 - FileSystemWatcher - INFO - FileSystemWatcher started - monitoring D:\users\OneDrive\Documents\GitHub\Personal-AI-Employee-FTEs\AI_Employee_Vault\Drop
+2026-03-17 23:11:49,497 - FileSystemWatcher - INFO - New file detected: test.md
+2026-03-17 23:11:49,509 - FileSystemWatcher - INFO - Copied file to Inbox: test.md
+2026-03-17 23:11:49,512 - FileSystemWatcher - INFO - Processed file: test.md -> FILE_430358491b1c_20260317_231149.md
+2026-03-17 23:22:24,038 - FileSystemWatcher - INFO - New file detected: test1.md
+2026-03-17 23:23:09,497 - FileSystemWatcher - INFO - Copied file to Inbox: test1.md
+2026-03-17 23:23:09,503 - FileSystemWatcher - INFO - Processed file: test1.md -> FILE_d94c10e437d1_20260317_232309.md
+2026-03-17 23:24:01,007 - FileSystemWatcher - INFO - New file detected: test2.md
+2026-03-17 23:24:01,011 - FileSystemWatcher - INFO - Copied file to Inbox: test2.md
+2026-03-17 23:24:01,014 - FileSystemWatcher - INFO - Processed file: test2.md -> FILE_44997f87b891_20260317_232401.md
+2026-03-17 23:38:50,657 - FileSystemWatcher - INFO - New file detected: test3.md
+2026-03-17 23:38:58,484 - FileSystemWatcher - INFO - Copied file to Inbox: test3.md
+2026-03-17 23:38:58,486 - FileSystemWatcher - INFO - Processed file: test3.md -> FILE_277f762c7e14_20260317_233858.md
+2026-03-17 23:44:41,820 - FileSystemWatcher - INFO - New file detected: test4.md
+2026-03-17 23:44:41,826 - FileSystemWatcher - INFO - Copied file to Inbox: test4.md
+2026-03-17 23:44:41,828 - FileSystemWatcher - INFO - Processed file: test4.md -> FILE_f20d9f2072bb_20260317_234441.md
